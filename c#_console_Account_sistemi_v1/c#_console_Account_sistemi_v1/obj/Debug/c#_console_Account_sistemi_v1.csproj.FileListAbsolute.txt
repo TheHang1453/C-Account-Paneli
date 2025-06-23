@@ -1,0 +1,7 @@
+C:\Users\emirh\source\repos\c#_console_Account_sistemi_v1\c#_console_Account_sistemi_v1\bin\Debug\c#_console_Account_sistemi_v1.exe.config
+C:\Users\emirh\source\repos\c#_console_Account_sistemi_v1\c#_console_Account_sistemi_v1\bin\Debug\c#_console_Account_sistemi_v1.exe
+C:\Users\emirh\source\repos\c#_console_Account_sistemi_v1\c#_console_Account_sistemi_v1\bin\Debug\c#_console_Account_sistemi_v1.pdb
+C:\Users\emirh\source\repos\c#_console_Account_sistemi_v1\c#_console_Account_sistemi_v1\obj\Debug\c#_console_Account_sistemi_v1.csproj.AssemblyReference.cache
+C:\Users\emirh\source\repos\c#_console_Account_sistemi_v1\c#_console_Account_sistemi_v1\obj\Debug\c#_console_Account_sistemi_v1.csproj.CoreCompileInputs.cache
+C:\Users\emirh\source\repos\c#_console_Account_sistemi_v1\c#_console_Account_sistemi_v1\obj\Debug\c#_console_Account_sistemi_v1.exe
+C:\Users\emirh\source\repos\c#_console_Account_sistemi_v1\c#_console_Account_sistemi_v1\obj\Debug\c#_console_Account_sistemi_v1.pdb
